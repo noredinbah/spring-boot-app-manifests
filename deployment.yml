@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: noredineba/img-ultimate-cicd:15
+        image: noredineba/img-ultimate-cicd:16
         ports:
         - containerPort: 8080
